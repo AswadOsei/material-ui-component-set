@@ -70,6 +70,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bettyblocks/material-ui-component-set.git"
-  }
+    "url": "git+https://github.com/bettyblocks/material-ui-component-set.git"
+  },
+  "description": "[![Build Status](https://travis-ci.org/bettyblocks/material-ui-component-set.svg?branch=master)](https://travis-ci.org/bettyblocks/material-ui-component-set)",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/bettyblocks/material-ui-component-set/issues"
+  },
+  "homepage": "https://github.com/bettyblocks/material-ui-component-set#readme"
 }
